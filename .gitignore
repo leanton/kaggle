@@ -1,0 +1,8 @@
+*.csv
+.DS_Store
+.Rproj.user
+*.Rhistory
+*.RData
+*.Rprofile
+*.Rproj
+.dropbox
